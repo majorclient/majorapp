@@ -1,1 +1,1 @@
-# majorapp
+# MajorClient App Site
